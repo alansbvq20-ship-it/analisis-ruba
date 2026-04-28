@@ -19,6 +19,9 @@ El objetivo es entender la distribución de los distintos tipos de emergencias y
 
 ## 🧰 Herramientas utilizadas
 
+
+![Grafico](nombre_de_tu_imagen.png)
+
 * Python
 * Pandas
 * Matplotlib
